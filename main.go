@@ -1,6 +1,6 @@
 package main
 
-import "github.com/springload/ssm-parent/cmd"
+import "github.com/ckd/ssm-parent/cmd"
 
 var version = "dev"
 

@@ -1,4 +1,4 @@
-module github.com/clusterduck/ssm-parent
+module github.com/ckd/ssm-parent
 
 require (
 	github.com/apex/log v1.9.0

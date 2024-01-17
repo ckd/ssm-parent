@@ -5,10 +5,10 @@ import (
 	"os"
 
 	"github.com/apex/log"
+	"github.com/ckd/ssm-parent/ssm/transformations"
 	"github.com/mitchellh/mapstructure"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/springload/ssm-parent/ssm/transformations"
 )
 
 var (

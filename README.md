@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/springload/ssm-parent)](https://goreportcard.com/report/github.com/springload/ssm-parent)
+This is 100% absolutely positively a fork of springload/ssm-parent, I'm just a clown mucking about with Go for the first time.
 
 ## SSM Parent
 
